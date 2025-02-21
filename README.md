@@ -24,8 +24,13 @@ Walmart, a retail chain with multiple outlets nationwide, faces challenges in ba
   6. The worst performing store, and how significant is the difference between the
      highest and lowest performing stores.
      
+     
 * Predictive Modeling:
 
-  1.  Use predictive modeling techniques to forecast the sales for each store for the next 12
+  1. Use predictive modeling techniques to forecast the sales for each store for the next 12
       weeks
+     
+      
+
+
 
